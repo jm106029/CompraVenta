@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279089726464",
+    "project_id": "comprasventas-37e4e",
+    "storage_bucket": "comprasventas-37e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279089726464:android:9e487b1e5f6dc0ad2f84e5",
+        "android_client_info": {
+          "package_name": "com.rm.compraventa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsnfXFwHtDa5gy1us72L4009N_5upr4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
